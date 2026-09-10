@@ -1,0 +1,48 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+.venv/
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Testing
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Virtual environments
+.env
+.venv
+venv/
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Temp files
+/tmp/
+temp/
+*.tmp
+*.log
+
+# Chunks temporarios
+yt_chunks*/
+
+# Arquivos do Cerebro (vault sincronizado via iCloud - NAO versionar)
+# Cerebro/
+# Plow credentials
+plow-credentials
+plow-credentials*
+agent_index_client.py
